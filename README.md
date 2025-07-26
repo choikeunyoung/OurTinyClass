@@ -2,6 +2,8 @@
 
 <img src="https://static-image-buckets.s3.ap-northeast-2.amazonaws.com/otc_logo_no_background.png" width="450">
 
+** 현재 유지중이던 서버가 닫혀서 이미지 파일이 다 삭제되었습니다. ** 
+
 ## 🏫 서비스 개요
 
 **학교 밖 청소년들을 위한 가상 교실 서비스**
